@@ -1,6 +1,7 @@
 
 # Filecoin Green: Project ES4D (Version 0.9 Alpha)
 
+![Screenshot](https://github.com/Monolithcreative/ES4D/blob/main/ES4D.png)
 
 ### Project Description
 
