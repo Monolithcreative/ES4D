@@ -29,8 +29,6 @@ We shall continue to refine and document the solution allowing the community to 
 
 We are working with hardware vendors closely connected to the Filecoin ecosystem with the intention of building and deploying production ready systems which can then be deployed by the community as a fully qualified Filecoin solution.
 
-Star and follow the project to see version Beta 1.0, coming soon!
-
 ### Additional Information
 
 This project is supported by:
