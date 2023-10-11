@@ -22,8 +22,6 @@ To that end we have designed ES4D, a ground-up rework of chassis design using im
 
 The risk of not adopting and investing in greener technology solutions would be that the Filecoin ecosystem could be perceived as not embracing sustainability. Enterprise and SME clients often have policies in place which mandate working with suppliers who are able to demonstrate strong environmental policies and commitments. With greater adoption of greener technologies the Filecoin ecosystem can not only promote it’s green credentials, it is more likely to onboard datasets belonging to clients looking for green alternatives to existing providers.
 
-Whilst we fully anticipate being able to successfully execute this project based on past experience, the most difficult aspect will be the fact that we are designing and building our own server chassis as opposed to working with a supplier. However, we believe we have mitigated this risk by securing the appropriate engineering resources and performing all the design work in advance allowing us to model, identify, and remedy issues before going into production.
-
 ### Maintenance and Upgrade Plans (Lots More Coming Soon!)
 
 We shall continue to refine and document the solution allowing the community to build and maintain their own installations, however the ultimate intention is to develop an open source configuration which can be shared and developed by the community allowing SP’s to cost-effectively refine, upgrade, and maintain their own customised installations if so desired.
