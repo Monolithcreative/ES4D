@@ -31,6 +31,7 @@ Whilst we fully anticipate being able to successfully execute this project based
 We shall continue to refine and document the solution allowing the community to build and maintain their own installations, however the ultimate intention is to develop an open source configuration which can be shared and developed by the community allowing SP’s to cost-effectively refine, upgrade, and maintain their own customised installations if so desired.
 
 We are working with hardware vendors closely connected to the Filecoin ecosystem with the intention of building and deploying production ready systems which can then be deployed by the community as a fully qualified Filecoin solution.
+If you are interested in the filecoin network, or looking at installing your own bespoke edge solution, please contact us.
 
 ### Additional Information
 
