@@ -13,11 +13,12 @@
    - Choose a coolant that is non-conductive and compatible with your server components.
    - Consider factors like cooling capacity, environmental impact, and safety.
    - Explore responsible alternatives: Vegetible glycerine + propelyn glycol + citric acid. Or just mineral oil... Synthetics are great for compute but not great for the environment, we advise for the adoption and development of better alternatives where possible.
+     
 3. **Precautions:**
    - **Ventilation:** Ensure adequate ventilation to disperse any fumes or vapors from your chosen fluid.
    - **PPE:** Use personal protective equipment when handling vapourous coolants.
    - **Spillage Plan:** Prepare for accidental spillage to minimize risk. Use spill matts on the floor whilst draining and filling.
-   - **Cooling:** Immersion cooling is very efficient; ensure that you have enough heat rejection to fully optimise the system, keep temperatures low, and working life long.
+   - **Cooling:** Immersion cooling is very efficient; ensure that you have enough heat rejection to fully optimise the system, keep temperatures low, and working life long. We advise re-use of this heat into the 3D printers and the office.
 
 4. **Prepare the Server:**
    - **Cleaning:** Clean all server components thoroughly to remove dust, dirt, or other contaminants. Typically we use alcohol spray.
