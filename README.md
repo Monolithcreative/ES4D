@@ -1,5 +1,5 @@
 # ES4D
-###3D Printable 2U Server Chassis
+### 3D Printable 2U Server Chassis
 ### 2U Immersion Chassis (Version 0.9)
 ![Screenshot](https://github.com/Monolithcreative/ES4D/blob/main/ES4D-2UC.png)
 
