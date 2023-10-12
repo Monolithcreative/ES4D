@@ -6,7 +6,7 @@
 ### Setup guide
 
 1. **Select Appropriate Hardware:**
-   - **Components:** Choose components compatable with the (Filecoin hardware requirements)[https://lotus.filecoin.io/storage-providers/get-started/hardware-requirements/]. Remove stickers, adhesives, or materials that could deteriorate in your chosen liquid.
+   - **Components:** Choose components compatable with the [Filecoin hardware requirements](https://lotus.filecoin.io/storage-providers/get-started/hardware-requirements/). Remove stickers, adhesives, or materials that could deteriorate in your chosen liquid.
    - **Compatibility:** Ensure that the materials of the internal components are compatible with the cooling fluid to avoid corrosion or other damage.
    
 2. **Select a Dielectric Coolant:**
