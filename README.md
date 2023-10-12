@@ -32,7 +32,7 @@ This is an advanced project, and a more detailed build guide for this project is
 
 2. Initial assembly: 
 
-    Follow the design plans and each CAD assembly to assemble the frame, X gantry, bed and extruder. Ensure the frame and bed is square and level. We can also adjust all of this later if needed.
+    Follow the 3D CAD plans and each assembly to assemble the frame, X gantry, bed and extruder. Ensure the frame and bed is square and level. We can also adjust all of this later if needed.
     
 3. Mount the Z axis: 
     
