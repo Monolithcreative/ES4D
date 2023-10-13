@@ -1,6 +1,6 @@
-# ES4D
-## Industrial 3D Printer
+# ES4D 3DP
 ![screenshot](https://github.com/Monolithcreative/ES4D/blob/main/ES4D-3DP.png)
+![screenshot](https://github.com/Monolithcreative/ES4D/blob/main/ES4D_3DPpics.png)
 
 The ES4D 3DP is a simple yet powerful, scalable, low-cost, open-source 3D printer solution.
 
