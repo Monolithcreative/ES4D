@@ -1,6 +1,6 @@
-# ES4D 3DP
+# ES4D 2U
 ![Screenshot](https://github.com/Monolithcreative/ES4D/blob/main/ES4D-2UC.png)
-![Screenshot](https://github.com/Monolithcreative/ES4D/blob/main/ES4D_3DPpics.png)
+![Screenshot](https://github.com/Monolithcreative/ES4D/blob/main/ES4D_2Upics.png)
 
 ### Setup guide
 
