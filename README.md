@@ -4,7 +4,7 @@
 ![Screenshot](https://github.com/Monolithcreative/ES4D/blob/main/ES4D.png)
 ![Screenshot](https://github.com/Monolithcreative/ES4D/blob/main/ES4D_main.png)
 
-This is the worlds first 3D printed immersion chassis for filecoin compute!
+##This is a 3D printed immersion chassis system for filecoin compute!
 
 ### Branches
 
@@ -106,3 +106,5 @@ This project is supported by:
 www.blocz.io
 
 grants@blocz.io
+
+### Special Thanks
