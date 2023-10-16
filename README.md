@@ -4,7 +4,21 @@
 ![Screenshot](https://github.com/Monolithcreative/ES4D/blob/main/ES4D.png)
 ![Screenshot](https://github.com/Monolithcreative/ES4D/blob/main/ES4D_main.png)
 
-The worlds first 3D printed immersion chassis for filecoin compute!
+This is the worlds first 3D printed immersion chassis for filecoin compute!
+
+### Branches
+
+[Industrial 3D Printer (print area - X500 Y1200 Z220)](https://github.com/Monolithcreative/ES4D/tree/3DP)
+
+[Printable 3D printer parts](https://github.com/Monolithcreative/ES4D/tree/3DP-Printable-Parts)
+
+[Marlin 3D Printer firmware](https://github.com/Monolithcreative/ES4D/tree/Marlin-Firmware)
+
+[2U Immersion Chassis - Version Alpha 0.9](https://github.com/Monolithcreative/ES4D/tree/2U-Immersion-Chassis)
+
+[IP68 Fittings](https://github.com/Monolithcreative/ES4D/tree/IP68-Fittings)
+
+[8U Rack](https://github.com/Monolithcreative/ES4D/tree/8U-Rack)
 
 ### Project Description
 
@@ -92,17 +106,3 @@ This project is supported by:
 www.blocz.io
 
 grants@blocz.io
-
-### Branches
-
-[Industrial 3D Printer (print area - X500 Y1200 Z220)](https://github.com/Monolithcreative/ES4D/tree/3DP)
-
-[Printable 3D printer parts](https://github.com/Monolithcreative/ES4D/tree/3DP-Printable-Parts)
-
-[Marlin 3D Printer firmware](https://github.com/Monolithcreative/ES4D/tree/Marlin-Firmware)
-
-[2U Immersion Chassis - Version Alpha 0.9](https://github.com/Monolithcreative/ES4D/tree/2U-Immersion-Chassis)
-
-[IP68 Fittings](https://github.com/Monolithcreative/ES4D/tree/IP68-Fittings)
-
-[8U Rack](https://github.com/Monolithcreative/ES4D/tree/8U-Rack)
