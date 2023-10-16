@@ -27,6 +27,56 @@ The risk of not adopting and investing in greener technology solutions would be 
 
 Whilst we fully anticipate being able to successfully execute this project based on past experience, the most difficult aspect will be the fact that we are designing and building our own server chassis as opposed to working with a supplier. However, we believe we have mitigated this risk by securing the appropriate engineering resources and performing all the design work in advance allowing us to model, identify, and remedy issues before going into production.
 
+### Benafits of Immersion Cooling 
+
+Cooling Efficiency:
+- Precision temperature control through direct contact with non-conductive liquid
+- Reduced hotspots and uniform cooling across components
+- Higher heat transfer efficiency compared to air
+
+Energy Savings:
+- Reduced energy usage by eliminating server fans - a reduction of 120W per 2U is typical
+- Lower operating costs and minimized carbon footprint
+
+Operational and Technical Benefits:
+- Quieter operation
+- Enhanced hardware reliability
+- Scalability, future-proofing, and eco-friendliness
+
+Cost and Space Savings:
+- Lower Total Cost of Ownership (TCO)
+- Over 60% space savings compared to traditional air-cooled data centers
+
+Performance Enhancement:
+- Suitable for high-power density environments, particularly High-Performance Computing (HPC)
+- Economical solution for system heat, noise, and power consumption challenges
+
+Market Adoption and Future Prospects:
+- Interest from tech giants like Intel, Facebook, and Google
+- Anticipated growth due to rising data center numbers and eco-friendly cooling needs
+
+### Benafits of 3D Printing for Immersion
+
+Customization and Design Flexibility:
+- Bespoke product creation without retooling costs
+- Freedom to iterate and adapt designs for different motherboards and layouts
+
+Cost Efficiency:
+- Significant reduction in manufacturing costs
+- Lowered material wastage and optimized resource utilization
+
+Enhanced Performance:
+- Tailored cooling solutions for optimized thermal management
+- Potential for designing complex and efficient cooling geometries
+
+Speed and Agility:
+- Rapid prototyping and deployment of cooling solutions
+- Adaptability to evolving hardware configurations and cooling requirements
+
+Innovation:
+- Opportunity for exploring novel cooling designs and techniques
+- Pushing the boundaries of thermal engineering through combined technology advancements
+
 ### Maintenance and Upgrade Plans (Lots More Coming Soon!)
 
 We shall continue to refine and document the solution allowing the community to build and maintain their own installations, however the ultimate intention is to develop an open source configuration which can be shared and developed by the community allowing SP’s to cost-effectively refine, upgrade, and maintain their own customised installations if so desired.
