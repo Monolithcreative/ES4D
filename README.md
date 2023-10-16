@@ -106,5 +106,3 @@ This project is supported by:
 www.blocz.io
 
 grants@blocz.io
-
-### Special Thanks
