@@ -2,7 +2,7 @@
 # Filecoin Green: Project ES4D (Version 0.9 Alpha)
 
 ![Screenshot](https://github.com/Monolithcreative/ES4D/blob/main/ES4D.png)
-![Screenshot](https://github.com/Monolithcreative/ES4D/blob/main/ES4D_main.png)
+![Screenshot](https://github.com/Monolithcreative/ES4D/blob/main/ES4D_main2.png)
 
 ## This is a 3D printed immersion chassis system for filecoin compute!
 
