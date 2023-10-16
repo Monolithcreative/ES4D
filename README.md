@@ -41,7 +41,7 @@ The risk of not adopting and investing in greener technology solutions would be 
 
 Whilst we fully anticipate being able to successfully execute this project based on past experience, the most difficult aspect will be the fact that we are designing and building our own server chassis as opposed to working with a supplier. However, we believe we have mitigated this risk by securing the appropriate engineering resources and performing all the design work in advance allowing us to model, identify, and remedy issues before going into production.
 
-### Benafits of Immersion Cooling 
+### Benefits of Immersion Cooling 
 
 Cooling Efficiency:
 - Precision temperature control through direct contact with non-conductive liquid
@@ -69,7 +69,7 @@ Market Adoption and Future Prospects:
 - Interest from tech giants like Intel, Facebook, and Google
 - Anticipated growth due to rising data center numbers and eco-friendly cooling needs
 
-### Benafits of 3D Printing for Immersion
+### Benefits of 3D Printing for Immersion
 
 Customization and Design Flexibility:
 - Bespoke product creation without retooling costs
