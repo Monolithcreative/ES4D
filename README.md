@@ -102,7 +102,3 @@ If you are interested in the filecoin network, or looking at installing your own
 
 This project is supported by:
 [Filecoin Green Devgrant](https://github.com/filecoin-project/devgrants/issues/916)
-
-www.blocz.io
-
-grants@blocz.io
